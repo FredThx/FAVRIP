@@ -1,4 +1,4 @@
-FAVRIP Lib - Une librairie pour piloter un Amplie Audio Video
+FAVRIP Lib - Une librairie pour piloter un Ampli Audio Video
 ========================================================================
 
 Ce module permet de piloter via TCP_IP un ammpli Home cinema
