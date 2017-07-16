@@ -1,0 +1,39 @@
+2015-05-16 22:21:05,510 - INFO - Audio Video recever <denon.denonAVR object at 0xb69feab0> is created.
+2015-05-16 22:21:05,513 - INFO - (Re)connection to <denon.denonAVR object at 0xb69feab0>
+2015-05-16 22:21:05,523 - ERROR - Connection error to <denon.denonAVR object at 0xb69feab0> : [Errno 111] Connection refused
+2015-05-16 22:23:14,167 - ERROR -   File "<stdin>", line 1, in <module>
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+
+2015-05-16 22:23:14,171 - ERROR - <class 'socket.error'> - [Errno 111] Connection refused
+2015-05-16 22:30:43,862 - ERROR -   File "<stdin>", line 1, in <module>
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+
+2015-05-16 22:30:43,867 - ERROR - <class 'socket.error'> - [Errno 111] Connection refused
+2015-05-16 22:34:09,861 - ERROR -   File "<stdin>", line 1, in <module>
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+
+2015-05-16 22:34:09,865 - ERROR - <class 'socket.error'> - [Errno 111] Connection refused
+2015-09-26 15:52:23,082 - INFO - Audio Video recever <denon.denonAVR object at 0x793ed0> is created. at favrip.py ,line n°:34
+2015-09-26 15:52:23,126 - ERROR - Connection error to <denon.denonAVR object at 0x793ed0> : [Errno 111] Connection refused at favrip.py ,line n°:49
+2015-09-26 15:52:25,702 - INFO - Audio Video recever <denon.denonAVR object at 0xb6d00a30> is created. at favrip.py ,line n°:34
+2015-09-26 15:52:48,253 - WARNING - timed out in command at favrip.py ,line n°:71
+2015-09-26 15:52:48,260 - WARNING - Try again ... at favrip.py ,line n°:72
+2015-09-26 15:52:59,550 - ERROR - Retry failed. timed out at favrip.py ,line n°:79
+2015-09-26 15:53:04,002 - ERROR - Connection error to <denon.denonAVR object at 0xb6d00a30> : [Errno 111] Connection refused at favrip.py ,line n°:49
+2015-09-26 15:53:04,019 - WARNING - 'NoneType' object has no attribute 'sendall' in command at favrip.py ,line n°:71
+2015-09-26 15:53:04,026 - WARNING - Try again ... at favrip.py ,line n°:72
+2015-09-26 15:53:31,884 - WARNING - timed out in command at favrip.py ,line n°:71
+2015-09-26 15:53:31,891 - WARNING - Try again ... at favrip.py ,line n°:72
+2015-09-26 15:53:43,180 - ERROR - Retry failed. timed out at favrip.py ,line n°:79
+2015-09-26 15:53:51,100 - ERROR - Connection error to <denon.denonAVR object at 0xb6d00a30> : [Errno 111] Connection refused at favrip.py ,line n°:49
+2015-09-26 15:53:51,115 - WARNING - 'NoneType' object has no attribute 'sendall' in command at favrip.py ,line n°:71
+2015-09-26 15:53:51,126 - WARNING - Try again ... at favrip.py ,line n°:72
+2015-09-26 15:54:11,324 - WARNING - timed out in command at favrip.py ,line n°:71
+2015-09-26 15:54:11,334 - WARNING - Try again ... at favrip.py ,line n°:72
+2015-09-26 15:54:22,624 - ERROR - Retry failed. timed out at favrip.py ,line n°:79
+2015-09-26 15:55:38,409 - ERROR - Connection error to <denon.denonAVR object at 0xb6d00a30> : [Errno 111] Connection refused at favrip.py ,line n°:49
+2015-09-26 15:55:38,425 - WARNING - 'NoneType' object has no attribute 'sendall' in command at favrip.py ,line n°:71
+2015-09-26 15:55:38,456 - WARNING - Try again ... at favrip.py ,line n°:72
